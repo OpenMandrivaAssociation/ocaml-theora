@@ -1,7 +1,7 @@
 Name:           ocaml-theora
 Version:        0.1.1
 Release:        %mkrel 1
-Summary:        @SUMMARY
+Summary:        OCaml interface to the theora library
 License:        GPL
 Group:          Development/Other
 URL:            http://sourceforge.net/projects/savonet/files/
