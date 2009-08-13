@@ -1,6 +1,6 @@
 Name:           ocaml-theora
 Version:        0.1.1
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        OCaml interface to the theora library
 License:        GPL
 Group:          Development/Other
