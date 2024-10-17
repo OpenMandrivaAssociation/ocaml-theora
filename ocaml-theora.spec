@@ -4,7 +4,7 @@ Release:        3
 Summary:        OCaml interface to the theora library
 License:        GPL
 Group:          Development/Other
-URL:            http://sourceforge.net/projects/savonet/files/
+URL:            https://sourceforge.net/projects/savonet/files/
 Source0:        http://downloads.sourceforge.net/project/savonet/ocaml-theora/%{version}/ocaml-theora-%{version}.tar.gz
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml
